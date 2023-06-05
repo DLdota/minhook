@@ -7,6 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fb08449df276ed815662.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.0"
@@ -55,6 +56,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 2
+		"minor" : 5
 	}
 }
